@@ -1,0 +1,76 @@
+_XSERVTransmkdir: ERROR: euid != 0,directory /tmp/.X11-unix will not be created.
+
+Xvnc TigerVNC 1.10.0 - built May  5 2020 05:22:55
+Copyright (C) 1999-2019 TigerVNC Team and many others (see README.rst)
+See https://www.tigervnc.org for information on TigerVNC.
+Underlying X server release 12006000, The X.Org Foundation
+
+
+Tue Dec  8 20:14:32 2020
+ vncext:      VNC extension running!
+ vncext:      Listening for VNC connections on all interface(s), port 16001
+ vncext:      created VNC server for screen 0
+Failed to connect to bus: No such file or directory
+dbus-update-activation-environment: error: unable to connect to D-Bus: Using X11 for dbus-daemon autolaunch was disabled at compile time, set your DBUS_SESSION_BUS_ADDRESS instead
+xsettingsd: Loaded 5 settings from /home/.xsettingsd
+xsettingsd: Created window 0x400001 on screen 0 with timestamp 791338950
+xsettingsd: Selection _XSETTINGS_S0 is owned by 0x0
+xsettingsd: Took ownership of selection _XSETTINGS_S0
+
+ERROR: openbox-xdg-autostart requires PyXDG to be installed
+
+Tue Dec  8 20:14:37 2020
+ Connections: accepted: 127.0.0.1::47412
+ SConnection: Client needs protocol version 3.7
+ SConnection: Client requests security type None(1)
+ VNCSConnST:  Server default pixel format depth 24 (32bpp) little-endian rgb888
+ VNCSConnST:  Client pixel format depth 24 (32bpp) little-endian bgr888
+ ComparingUpdateTracker: 0 pixels in / 0 pixels out
+ ComparingUpdateTracker: (1:-nan ratio)
+
+Tue Dec  8 20:14:59 2020
+ VNCSConnST:  closing 127.0.0.1::47412: Clean disconnection
+ EncodeManager: Framebuffer updates: 121
+ EncodeManager:   Tight:
+ EncodeManager:     Solid: 254 rects, 3.38588 Mpixels
+ EncodeManager:            3.96875 KiB (1:3333.31 ratio)
+ EncodeManager:     Bitmap RLE: 47 rects, 167.613 kpixels
+ EncodeManager:                 3.52051 KiB (1:186.135 ratio)
+ EncodeManager:     Indexed RLE: 113 rects, 312.617 kpixels
+ EncodeManager:                  9.03711 KiB (1:135.274 ratio)
+ EncodeManager:   Tight (JPEG):
+ EncodeManager:     Full Colour: 4 rects, 23.432 kpixels
+ EncodeManager:                  14.9863 KiB (1:6.11078 ratio)
+ EncodeManager:   Total: 418 rects, 3.88954 Mpixels
+ EncodeManager:          31.5127 KiB (1:482.295 ratio)
+ TcpSocket:   unable to get peer name for socket
+ Connections: closed: ::0
+ ComparingUpdateTracker: 54.143 Mpixels in / 3.17475 Mpixels out
+ ComparingUpdateTracker: (1:17.0542 ratio)
+
+Tue Dec  8 20:15:31 2020
+ Connections: accepted: 127.0.0.1::47420
+ SConnection: Client needs protocol version 3.7
+ SConnection: Client requests security type None(1)
+ VNCSConnST:  Server default pixel format depth 24 (32bpp) little-endian rgb888
+ VNCSConnST:  Client pixel format depth 24 (32bpp) little-endian bgr888
+
+Tue Dec  8 20:16:17 2020
+ VNCSConnST:  closing 127.0.0.1::47420: Clean disconnection
+ EncodeManager: Framebuffer updates: 420
+ EncodeManager:   Tight:
+ EncodeManager:     Solid: 967 rects, 6.71394 Mpixels
+ EncodeManager:            15.1094 KiB (1:1736.52 ratio)
+ EncodeManager:     Bitmap RLE: 252 rects, 456.932 kpixels
+ EncodeManager:                 10.4697 KiB (1:170.763 ratio)
+ EncodeManager:     Indexed RLE: 413 rects, 959.097 kpixels
+ EncodeManager:                  26.6836 KiB (1:140.585 ratio)
+ EncodeManager:   Tight (JPEG):
+ EncodeManager:     Full Colour: 4 rects, 27.936 kpixels
+ EncodeManager:                  17.0176 KiB (1:6.41524 ratio)
+ EncodeManager:   Total: 1.636 krects, 8.1579 Mpixels
+ EncodeManager:          69.2803 KiB (1:460.246 ratio)
+ TcpSocket:   unable to get peer name for socket
+ Connections: closed: ::0
+ ComparingUpdateTracker: 194.486 Mpixels in / 7.19657 Mpixels out
+ ComparingUpdateTracker: (1:27.0248 ratio)
