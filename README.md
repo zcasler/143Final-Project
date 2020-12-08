@@ -9,3 +9,5 @@ of your tail) this will also result in game over.
 How to run program:
 run the command "javac App.java && java App.java". Once the window opens up, first click the smaller white window, then
 hit spacebar to begin the game. If you lose the game, hit spacebar again to reset and play again.
+
+Video Demonstration Link: https://youtu.be/LdF1ph87YYg
